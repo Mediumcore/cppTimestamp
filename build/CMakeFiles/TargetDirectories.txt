@@ -1,0 +1,3 @@
+/home/promote/timestamp/build/CMakeFiles/rebuild_cache.dir
+/home/promote/timestamp/build/CMakeFiles/timestamp.dir
+/home/promote/timestamp/build/CMakeFiles/edit_cache.dir

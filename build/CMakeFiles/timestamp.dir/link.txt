@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/timestamp.dir/main.cpp.o  -o timestamp 
